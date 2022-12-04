@@ -1,3 +1,49 @@
+# Language Cards
+
+## Description
+
+Project aims to create a Languages Cards App.
+
+## Expected Outcome
+
+![Project Snapshot](language-cards.gif)
+
+## Project Skeleton
+
+```
+002-Language Cards(folder)
+|
+|----readme.md         # Given to the students (Definition of the project)
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│    ├── components
+│    │       └── card
+│    │             ├── Card.css
+│    │             └── Card.js
+│    ├── helper
+│    │       └── data.js
+│    ├── assets.js
+│    │       └── [images]
+│    ├── App.js
+│    ├── App.css
+│    ├── index.js
+│    └── index.css
+├── package.json
+└── yarn.lock
+```
+
+### At the end of the project, following topics are to be covered;
+
+- HTML
+
+- CSS
+
+- JS
+
+- ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
